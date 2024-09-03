@@ -18,6 +18,20 @@ Empresa de distribución de alimentos
 4. **Pruebas**:
    - Ingresa datos de prueba y verifica que la salida sea correcta
 
+Ejemplo:
+
+Marca del vehículo: Toyota
+Modelo del vehículo: Corolla
+Cilindrada del vehículo: 1.8
+Tipo de combustible del vehículo: Gasolina
+Número de pasajeros que puede transportar: 5
+
+Marca del vehículo: Toyota
+Modelo del vehículo: Corolla
+Cilindrada del vehículo: 1.8
+Tipo de combustible: Gasolina
+Capacidad para 5 pasajeros.
+
 ## Requisitos
 
 ### Requisitos Funcionales
