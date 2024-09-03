@@ -48,14 +48,14 @@ Capacidad para 5 pasajeros.
 - **Semana 2**: Documentación y pruebas.
 - **Semana 3**: Revisión y entrega final.
 
-##Contribuciones
+## Contribuciones
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
-- **Realiza: un fork del repositorio.**
-- **Crea una nueva rama (git checkout -b feature/mi-nueva-caracteristica).**
-- **Realiza los cambios necesarios y haz un commit (git commit -am 'Agrega nueva característica').**
-- **Envía tus cambios a tu repositorio (git push origin feature/mi-nueva-caracteristica).
-Crea un pull request en GitHub.**
+- Realiza: un fork del repositorio.
+- Crea una nueva rama (git checkout -b feature/mi-nueva-caracteristica).
+- Realiza los cambios necesarios y haz un commit (git commit -am 'Agrega nueva característica').
+- Envía tus cambios a tu repositorio (git push origin feature/mi-nueva-caracteristica).
+Crea un pull request en GitHub.
 
    **Criterios de Aceptación**:
    - El usuario debe ingresar marca, modelo, cilindrada, tipo de combustible y capacidad en pasajeros.
