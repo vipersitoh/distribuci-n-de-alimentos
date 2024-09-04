@@ -41,6 +41,8 @@ Empresa de distribución de alimentos
 **Usuario registra datos y obtiene los siguientes resultados:**
 
 **Datos Ingresados:**
+Ingrese su nombre: Matias
+Ingrese su Edad: 33
 Marca del vehículo: Toyota
 Modelo del vehículo: Corolla
 Cilindrada del vehículo: 1.8
@@ -48,6 +50,8 @@ Tipo de combustible del vehículo: Gasolina
 Número de pasajeros que puede transportar: 5
 
 **Resultados en pantalla:**
+Nombre del usuario: Matias
+Edad: 33
 Marca del vehículo: Toyota
 Modelo del vehículo: Corolla
 Cilindrada del vehículo: 1.8
