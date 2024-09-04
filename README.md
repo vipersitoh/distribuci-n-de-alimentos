@@ -54,12 +54,6 @@ Cilindrada del vehículo: 1.8
 Tipo de combustible: Gasolina
 Capacidad para 5 pasajeros.
 
-## Cronograma
-
-- **Semana 1**: Desarrollo del código fuente.
-- **Semana 2**: Documentación y pruebas.
-- **Semana 3**: Revisión y entrega final.
-
 ## Contribuciones
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
