@@ -45,7 +45,7 @@ public class DistribucionAlimentos {
 
         // Mostrar los datos ingresados
         System.out.println("\nNombre del usuario: " + nombreUsuario);
-        System.out.println("\Edad del usuario: " + edadUsuario);
+        System.out.println("\nEdad del usuario: " + edadUsuario);
         System.out.println("La marca que ha ingresado es: " + marca);
         System.out.println("El modelo que ha ingresado es: " + modelo);
         System.out.println("La cilindrada que ha ingresado es: " + cilindrada);
