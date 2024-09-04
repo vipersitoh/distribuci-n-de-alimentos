@@ -36,8 +36,6 @@ Cilindrada del vehículo: 1.8
 Tipo de combustible: Gasolina
 Capacidad para 5 pasajeros.
 
-## Requisitos
-
 ### Requisitos Funcionales
 - Ingreso de datos del vehículo.
 - Muestra de los datos ingresados.
