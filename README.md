@@ -55,8 +55,6 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 - Crea una nueva rama (git checkout -b feature/mi-nueva-caracteristica).
 - Realiza los cambios necesarios y haz un commit (git commit -am 'Agrega nueva característica').
 - Envía tus cambios a tu repositorio (git push origin feature/mi-nueva-caracteristica).
-Crea un pull request en GitHub.
+- Crea un pull request en GitHub.
 
-   **Criterios de Aceptación**:
-   - El usuario debe ingresar marca, modelo, cilindrada, tipo de combustible y capacidad en pasajeros.
-   - El programa debe mostrar la información ingresada de forma clara y precisa.
+   
