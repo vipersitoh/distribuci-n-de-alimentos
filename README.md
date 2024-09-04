@@ -51,7 +51,7 @@ Número de pasajeros que puede transportar: 5
 
 **Resultados en pantalla:**
 Nombre del usuario: Matias
-Edad: 33
+Edad del usuario: 33
 Marca del vehículo: Toyota
 Modelo del vehículo: Corolla
 Cilindrada del vehículo: 1.8
