@@ -5,6 +5,10 @@ public class DistribucionAlimentos {
         // Crear un objeto Scanner para leer datos de entrada
         Scanner scanner = new Scanner(System.in);
 
+        // Solicitar el nombre del usuario
+        System.out.print("Ingrese su nombre: ");
+        String nombreUsuario = scanner.nextLine(); // Leer y almacenar el nombre del usuario
+
         // Solicitar la marca del vehículo al usuario
         System.out.print("Ingrese la marca: ");
         String marca = scanner.nextLine(); // Leer y almacenar la marca
@@ -36,6 +40,7 @@ public class DistribucionAlimentos {
         }
 
         // Mostrar los datos ingresados
+        System.out.println("\nNombre del usuario: " + nombreUsuario);
         System.out.println("La marca que ha ingresado es: " + marca);
         System.out.println("El modelo que ha ingresado es: " + modelo);
         System.out.println("La cilindrada que ha ingresado es: " + cilindrada);
