@@ -38,7 +38,7 @@ Empresa de distribución de alimentos
 - El usuario debe poder introducir la marca, modelo, cilindrada, tipo de combustible y capacidad de pasajeros.
 - El programa debe mostrar la información de forma clara y precisa.
   
-** Usuario registra datos y obtiene la siguiente información en pantalla:**
+**Usuario registra datos y obtiene la siguiente información en pantalla:**
 
 Marca del vehículo: Toyota
 Modelo del vehículo: Corolla
