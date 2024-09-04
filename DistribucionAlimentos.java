@@ -7,7 +7,11 @@ public class DistribucionAlimentos {
 
         // Solicitar el nombre del usuario
         System.out.print("Ingrese su nombre: ");
-        String nombreUsuario = scanner.nextLine(); // Leer y almacenar el nombre del usuario
+        String edadUsuario = scanner.nextLine(); // Leer y almacenar el nombre del usuario
+
+        // Solicitar edad del usuario
+        System.out.print("Ingrese su edad: ");
+        String nombreUsuario = scanner.nextLine(); // Leer y almacenar la edad del usuario
 
         // Solicitar la marca del vehículo al usuario
         System.out.print("Ingrese la marca: ");
@@ -41,6 +45,7 @@ public class DistribucionAlimentos {
 
         // Mostrar los datos ingresados
         System.out.println("\nNombre del usuario: " + nombreUsuario);
+        System.out.println("\Edad del usuario: " + edadUsuario);
         System.out.println("La marca que ha ingresado es: " + marca);
         System.out.println("El modelo que ha ingresado es: " + modelo);
         System.out.println("La cilindrada que ha ingresado es: " + cilindrada);
