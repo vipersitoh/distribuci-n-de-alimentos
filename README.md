@@ -1,4 +1,4 @@
-# distribuci-n-de-alimentos
+# distribución-de-alimentos
 Empresa de distribución de alimentos
 
 # Documentación del Proyecto
@@ -14,6 +14,10 @@ Empresa de distribución de alimentos
 
 3. **Ejecución**:
    - Ejecuta el programa con el comando: `java DistribucionAlimentos`.
+   - Cuando se ejecute la aplicación, se solicitará que ingreses la marca del vehículo.
+   - Proporciona la marca y presiona Enter.
+   - Repite el proceso para el modelo, la cilindrada, el tipo de combustible y la capacidad en pasajeros.
+   - La aplicación mostrará los datos ingresados en la consola.
 
 4. **Pruebas**:
    - Ingresa datos de prueba y verifica que la salida sea correcta
