@@ -32,11 +32,13 @@ Empresa de distribución de alimentos
 
 ## Casos de Uso
 
-1. **Caso de Uso 1**: Como usuario, quiero ingresar información sobre un vehículo y visualizarla en la salida del programa para asegurarme de que los datos se han registrado correctamente.
-   **Criterios de Validación**:
-   - El usuario debe poder introducir la marca, modelo, cilindrada, tipo de combustible y capacidad de pasajeros.
-   - El programa debe mostrar la información de forma clara y precisa.
-   ** Usuario registra datos y obtiene la siguiente información en pantalla:**
+**Caso de Uso de ejemplo**: Como usuario, quiero ingresar información sobre un vehículo y visualizarla en la salida del programa para asegurarme de que los datos se han registrado correctamente.
+
+**Criterios de Validación**:
+- El usuario debe poder introducir la marca, modelo, cilindrada, tipo de combustible y capacidad de pasajeros.
+- El programa debe mostrar la información de forma clara y precisa.
+  
+** Usuario registra datos y obtiene la siguiente información en pantalla:**
 
 Marca del vehículo: Toyota
 Modelo del vehículo: Corolla
